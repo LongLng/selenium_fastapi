@@ -25,6 +25,7 @@ def Crawl():
         print('Label:', label, 'Value:', value)
 
     time.sleep(10)
+    
     driver.close()
 
 
